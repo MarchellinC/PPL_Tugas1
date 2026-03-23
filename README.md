@@ -22,7 +22,6 @@ API dibangun menggunakan:
 | DELETE | /items/:id | Menghapus kendaraan |
 
 ### Contoh Request & Response
-
 #### GET /items (Success) "http://localhost:3000/items"
 ```json
 [
@@ -70,6 +69,8 @@ API dibangun menggunakan:
 ```
 ![Before DELETE](img/image4.png)
 ![After DELETE](img/image5.png)
+
+---
 
 ## 3. Panduan Instalasi (Docker)
 ### Menjalankan Aplikasi
