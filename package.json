@@ -19,7 +19,10 @@
   },
   "homepage": "https://github.com/MarchellinC/PPL_Tugas1#readme",
   "dependencies": {
-    "express": "^5.2.1",
-    "sqlite3": "^6.0.1"
+    "better-sqlite3": "^12.8.0",
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "vitest": "^4.1.1"
   }
 }
